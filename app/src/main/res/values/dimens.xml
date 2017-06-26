@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="cardview_margin_top_and_bottom">15dp</dimen>
+    <dimen name="cardview_margin_left_and_right">10dp</dimen>
+    <dimen name="grip_view_entry_size">170dp</dimen>
+    <dimen name="grip_view_spacing">10dp</dimen>
+
+</resources>
